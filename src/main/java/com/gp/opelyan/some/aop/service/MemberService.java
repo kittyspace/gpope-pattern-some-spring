@@ -1,7 +1,7 @@
-package com.gp.opelyan.some.service;
+package com.gp.opelyan.some.aop.service;
 
 
-import com.gp.opelyan.some.model.Member;
+import com.gp.opelyan.some.aop.model.Member;
 import lombok.extern.slf4j.Slf4j;
 import org.springframework.stereotype.Service;
 

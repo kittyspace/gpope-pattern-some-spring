@@ -1,4 +1,4 @@
-package com.gp.opelyan.some.model;
+package com.gp.opelyan.some.aop.model;
 
 
 public class Member {
